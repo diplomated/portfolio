@@ -11,5 +11,5 @@ Focus is now on ethical, lab-only research: threat analysis, detection, and defe
 
 ## Skills (in progress)
 - Web vulnerabilities: XSS, SQLi  
-- Tools: Bash, Python, curl  
+- Tools: Bash, basic Python, powershell  
 - Methodology: Recon → Reproduce → Mitigate
