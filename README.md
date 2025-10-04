@@ -1,15 +1,22 @@
-# diplomat — aspiring pentester
+**Junior Cybersecurity Specialist | Pentest+ Certified | Self-taught Enthusiast**
 
-Cybersecurity student exploring ethical hacking and penetration testing.  
-I document my learning process through safe, controlled experiments and defensive research.
+I'm a junior cybersecurity specialist with a strong academic background and a passion for ethical hacking and security. I hold a CompTIA Pentest+ certification, which has deepened my practical knowledge of penetration testing, vulnerability assessments, and overall network security. Along with my formal education, I have continually developed my skills through self-learning and hands-on projects.
 
-**Ethics**
-Previously experimented privately with offensive techniques. I no longer develop or distribute malicious tools.  
-Focus is now on ethical, lab-only research: threat analysis, detection, and defense.
+**My areas of expertise include:**
 
----
+Penetration Testing (Web & Network)
 
-## Skills (in progress)
-- Web vulnerabilities: XSS, SQLi  
-- Tools: Bash, basic Python, powershell  
-- Methodology: Recon → Reproduce → Mitigate
+Vulnerability Assessment
+
+Security Audits
+
+Threat Detection & Mitigation
+
+Ethical Hacking
+
+I’m always eager to expand my knowledge and stay updated with the latest security trends. Join me on my journey through the ever-evolving field of cybersecurity!
+
+Feel free to connect with me via my:
+Telegram - https://t.me/biographydiplomat
+Discord - https://discord.gg/N7ZcNBbjSH
+TikTok - https://www.tiktok.com/@tracezero
